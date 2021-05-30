@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{811248EB-3D76-4E7F-B8EC-08BED63BB6DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqSummaryExtensions", "src\LinqSummaryExtensions\LinqSummaryExtensions.csproj", "{9006EFB7-AA98-4A53-82AE-7C2B96CA6A94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9006EFB7-AA98-4A53-82AE-7C2B96CA6A94} = {811248EB-3D76-4E7F-B8EC-08BED63BB6DD}
+		{5A214388-11C3-47DD-9995-B18B3E80F48C} = {E45EA1B7-281D-4B15-8CE2-004A0E066C52}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9006EFB7-AA98-4A53-82AE-7C2B96CA6A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9006EFB7-AA98-4A53-82AE-7C2B96CA6A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9006EFB7-AA98-4A53-82AE-7C2B96CA6A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9006EFB7-AA98-4A53-82AE-7C2B96CA6A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A214388-11C3-47DD-9995-B18B3E80F48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A214388-11C3-47DD-9995-B18B3E80F48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A214388-11C3-47DD-9995-B18B3E80F48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A214388-11C3-47DD-9995-B18B3E80F48C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
